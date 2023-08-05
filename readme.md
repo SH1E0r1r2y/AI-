@@ -21,6 +21,8 @@
 - crawl：bug1只抓文字；bug2抓取整個html；craw以firefox引擎為模板
 - de-identification：一鍵將儲存資料夾裡的html抓取文本。coool有 meta 值、html、url，有資料夾；lighter沒有 meta 值
 - weeeb：如果 chatGPT 無法分析的備案，再傳入URL時將初步訓練的所有步驟全部在後台跑一次
+- main：後端訓練
+- gpt-master：串接與網站 Demo
 
 ### 遭遇問題與解方
 - ![Alt text](image.png)
