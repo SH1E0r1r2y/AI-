@@ -1,0 +1,18 @@
+NAB Security  |  Help  |  Contact us
+A member of the nab connect team may contact you within 24 hours to verify malacious activity, until then you can continue to login as normal, you will be redirected to the login screen
+Find out how to get started with NAB Connect >
+Having trouble logging in?
+Trouble shoot and get help with NAB Connect login.
+Register your PayID
+Receive payments faster without a BSB and account number by setting up your PayID. Learn how you can set up PayID.
+Security tips
+Visit the NAB Connect Security page or nab.com.au/security for more security information and advice.
+Get help
+Visit NAB Connect help to learn about making payments, mobile tokens, creating users, attend a training session and more.
+Report a hoax
+Report suspicious emails and text messages to phish@nab.com.au
+© National Australia Bank Limited
+Disclaimer  |  Privacy Policy
+
+URLs:
+https://nabconnect.nab.com.au/login'

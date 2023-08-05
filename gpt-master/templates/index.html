@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- 其他程式碼 -->
+    <!-- 加入 Font Awesome 的連結 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <!-- 其他程式碼 -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anti-Phishing</title>
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='favic.png') }}?v=1" />
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 60px;
+            background-image: url("{{ url_for('static', filename='packgrou.png') }}");
+            /* Set background properties */
+            background-repeat: no-repeat;
+            background-size: cover;
+            /* The following properties can help center the content */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 100vh;
+            /* Set minimum height to ensure the background covers the entire viewport */
+
+        }
+
+        .title-wrapper {
+            text-align: left;
+            /* Left-align the text within the div */
+        }
+
+        h1 {
+            color: #00A67E;
+            margin: 0;
+            /* Remove default margin to minimize space */
+            padding-left: 340px;
+            /* Remove default padding to minimize space */
+        }
+
+        .white-text {
+            color: #385723;
+            padding-left: 340px;
+            margin: 5px 0;
+            /* Adjust the margin to control the space between h1 and .white-text */
+
+        }
+
+        form {
+            margin-top: 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        textarea {
+            font-size: 18px;
+            padding: 10px;
+            width: 800px;
+            height: 20px;
+            /* 設置輸入框的高度 */
+            word-wrap: break-word;
+            /* 自動換行 */
+            margin-bottom: 20px;
+        }
+
+        input[type="submit"] {
+            font-size: 18px;
+            padding: 10px 20px;
+            background-color: #00A67E;
+            color: #fff;
+            justify-content: space-between;
+            border-radius: 30px;
+            cursor: pointer;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #385723;
+            margin-top: 10px;
+
+        }
+
+        .black-text {
+            margin: 0 auto;
+            max-width: 800px;
+            /* 設定段落的最大寬度為 800px */
+            padding: 0 20px;
+            /* 設定段落的左右間距為 20px */
+            margin-top: 10px;
+            /* Adjust the margin to control the space between h2 and p */
+            font-size: 15px;
+            line-height: 1.6;
+            word-wrap: break-word;
+            /* 自動換行 */
+            text-align: center;
+        }
+
+        /* CSS style for red warning text */
+        .red-text {
+            color: #FF0000;
+            font-size: 20px;
+            margin-top: 10px;
+        }
+
+        /* CSS style for green save text */
+        .green-text {
+            color: #008000;
+            font-size: 20px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="title-wrapper">
+        <h1>Safeguarding Your Business Secrets</h1>
+        <p class="white-text">Advanced Anti-Phishing URL Analysis</p>
+    </div>
+    <div class="center">
+        <form method="post" action="/">
+            <textarea name="user_input" placeholder="Input the url here,plz" rows="4"></textarea>
+            <input type="submit" value="Submit">
+        </form>
+
+        <div class="center">
+            <h2>Answer</h2>
+            <form method="post" action="/">
+            </form>
+            {% if response_text %}
+            {{ warning_text | safe }} <!-- Display the warning text -->
+            <pre class="black-text">{{ response_text }}</pre> <!-- Display formatted JSON data -->
+            {% endif %}
+
+</body>
+
+</html>

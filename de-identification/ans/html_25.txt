@@ -1,0 +1,20 @@
+Auftragsnummer : DE/904951986
+Standardpaket
+Kartennummer:
+Datum Exp:
+Versand
+Gesamt
+Bedingungen für das Die Post Package ™
+Back to tophttps://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
+https://code.jquery.com/jquery-3.5.1.slim.min.js
+https://cdnjs.cloudflare.com/ajax/libs/jquery.payment/3.0.0/jquery.payment.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+https://img.icons8.com/color/36/000000/visa.png
+https://img.icons8.com/color/36/000000/mastercard.png
+https://cdnjs.cloudflare.com/ajax/libs/jquery.payment/3.0.0/jquery.payment.min.js
+https://code.jquery.com/jquery-3.5.1.slim.min.js
+https://code.jquery.com/jquery-3.5.1.slim.min.js
+https://code.jquery.com/jquery-3.3.1.slim.min.js

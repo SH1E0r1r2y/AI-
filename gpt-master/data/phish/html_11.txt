@@ -1,0 +1,10 @@
+Install
+The content that you requested has been blocked because of legal, abuse, malware or security reasons.
+If you feel that this content has been blocked in error, please contact
+abuse@protocol.ai
+.
+                Include the full URL and, if applicable, the reason why it should not be blocked.
+
+URLs:
+https://ipfs.tech?utm_source=bifrost&amp;utm_medium=ipfsio&amp;utm_campaign=error_pages
+https://ipfs.tech

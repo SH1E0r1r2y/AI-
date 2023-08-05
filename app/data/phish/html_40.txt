@@ -1,0 +1,5 @@
+
+
+URLs:
+https://geolocation-db.com/jsonp
+https://pegadorbd.com/wp-content/backuply/backup/index.html');

@@ -1,0 +1,11 @@
+/home/natalielin/GPT/data/not_phish/html_12.txt
+The given context is a list of video titles from YouTube. It appears to be a playlist or search results page on the YouTube website. The URLs provided indicate that the videos are hosted on YouTube.
+
+/home/natalielin/GPT/data/not_phish/html_12.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+

@@ -1,0 +1,3 @@
+https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+https://geolocation-db.com/jsonp
+https://pegadorbd.com/wp-content/backuply/backup/index.html');

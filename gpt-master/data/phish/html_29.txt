@@ -1,0 +1,5 @@
+
+
+URLs:
+https://geolocation-db.com/jsonp
+https://deskworksol.com/.well-known/pki-validation/chf/index.aspx.php');

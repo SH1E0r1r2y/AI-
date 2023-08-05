@@ -1,0 +1,736 @@
+/home/natalielin/GPT/data/phish/html_156.txt
+Based on the provided HTML and URL, here are the findings:
+
+JSON Output:
+{
+  "phishing_score": 8,
+  "brands": "Facebook",
+  "phishing": true,
+  "suspicious_domain": true
+}
+
+Explanation:
+- The provided HTML contains suspicious elements commonly found in phishing attacks. It mentions deactivation of the user's account, unusual activity, and the need to verify the account by providing personal information like email address, phone number, and password. These are red flags indicating a potential phishing attempt.
+- The brand name identified in the HTML is "Facebook."
+- The URL "https://huraharagas.000webhostapp.com/verified.php" is not associated with the legitimate domain name of Facebook. It is a suspicious domain that does not resemble the official Facebook domain.
+- The phishing_score is set to 8, indicating a high phishing risk on a scale of 0 to 10.
+- The phishing flag is set to true, indicating that the site is a phishing site.
+- The suspicious_domain flag is set to true, indicating that the domain name is suspected to be illegitimate.
+
+
+/home/natalielin/GPT/data/phish/html_121.txt
+Based on the given information, the analysis of the web page suggests the following findings:
+
+JSON-formatted output:
+{
+  "phishing_score": 8,
+  "brands": "Societe Generale",
+  "phishing": true,
+  "suspicious_domain": true
+}
+
+Explanation:
+- The HTML content contains text that indicates a security issue with the user's account and prompts them to click on a link to synchronize their account.
+- The brand name mentioned in the HTML is "Societe Generale."
+- The URL provided, "https://dev-synchronisation-societegenerale-moncompte.pantheonsite.io/prive/", appears to be suspicious as it does not match the official domain associated with Societe Generale.
+- The phishing_score is set to 8 on a scale of 0 to 10, indicating a high risk of phishing.
+- The phishing key is set to true, indicating that the site is a phishing site.
+- The suspicious_domain key is set to true, indicating that the domain name is suspected to be illegitimate.
+
+/home/natalielin/GPT/data/phish/html_147.txt
+{
+  "phishing_score": 2,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+
+/home/natalielin/GPT/data/phish/html_88.txt
+Based on the limited information provided, it is not possible to accurately determine if the web page is a phishing site or a legitimate site. The HTML and URLs provided do not contain enough information to make a proper assessment.
+
+
+/home/natalielin/GPT/data/phish/html_12.txt
+{
+  "phishing_score": 7,
+  "brands": null,
+  "phishing": true,
+  "suspicious_domain": false
+}
+/home/natalielin/GPT/data/phish/html_152.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+/home/natalielin/GPT/data/phish/html_117.txt
+{
+"phishing_score": 5,
+"brands": null,
+"phishing": true,
+"suspicious_domain": true
+}
+/home/natalielin/GPT/data/phish/html_0.txt
+Based on the given information, the analysis of the web page suggests the following findings:
+
+JSON
+
+formatted output:
+
+{
+  "phishing_score": 0,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+Explanation: 
+- The HTML content does not contain any text or elements that indicate a security issue or prompt the user to take any action that is commonly associated with phishing attacks.
+- There is no specific brand name mentioned in the HTML.
+- The URLs provided do not resemble any known phishing URLs or suspicious domains.
+- The phishing_score is set to 0, indicating a low risk of phishing.
+- The phishing key is set to false, indicating that the site is not a phishing site.
+- The suspicious_domain key is set to false, indicating that the domain name is not suspected to be illegitimate.
+/home/natalielin/GPT/data/phish/html_40.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_111.txt
+{
+"phishing_score": 0,
+"brands": "Adobe Systems Incorporated",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_134.txt
+{
+"phishing_score": 0,
+"brands": "Wells Fargo",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_36.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_155.txt
+{
+  "phishing_score": 0,
+  "brands": "Microsoft",
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_28.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_124.txt
+{
+"phishing_score": 0,
+"brands": "Valve Corporation",
+"phishing": false,
+"suspicious_domain": true
+}
+
+/home/natalielin/GPT/data/phish/html_30.txt
+{
+"phishing_score": 0,
+"brands": "Lens",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_154.txt
+{
+"phishing_score": 0,
+"brands": "Bancolombia",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_32.txt
+{
+"phishing_score": 0,
+"brands": "Axie Infinity",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_31.txt
+{
+"phishing_score": 5,
+"brands": null,
+"phishing": true,
+"suspicious_domain": true
+}
+
+/home/natalielin/GPT/data/phish/html_7.txt
+{
+"phishing_score": 0,
+"brands": "MetaMask",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_151.txt
+{
+"phishing_score": 0,
+"brands": "CaixaBank",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_95.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_162.txt
+{
+"phishing_score": 8,
+"brands": null,
+"phishing": true,
+"suspicious_domain": true
+}
+
+/home/natalielin/GPT/data/phish/html_91.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_129.txt
+{
+"phishing_score": 0,
+"brands": "Square",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_41.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_115.txt
+{
+"phishing_score": 0,
+"brands": "Facebook",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_4.txt
+Based on the provided information, it is not possible to determine if the web page is a phishing site or a legitimate site. The HTML content does not contain any suspicious techniques often used in phishing attacks. The brand name mentioned in the HTML is "GreenScape". As for the URL, it is not provided in the given context. Therefore, the JSON-formatted output would be as follows:
+
+{
+   "phishing_score": null,
+   "brands": "GreenScape",
+   "phishing": null,
+   "suspicious_domain": null
+}
+
+/home/natalielin/GPT/data/phish/html_94.txt
+{
+  "phishing_score": 0,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_160.txt
+{
+"phishing_score": 0,
+"brands": "Kråken Login",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_98.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_39.txt
+{
+"phishing_score": 0,
+"brands": "Rakuten, Inc.",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_80.txt
+{
+"phishing_score": 0,
+"brands": "Mozilla",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_153.txt
+{
+"phishing_score": 0,
+"brands": "Bancolombia",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_158.txt
+{
+  "phishing_score": 0,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_10.txt
+{
+  "phishing_score": 0,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_84.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_161.txt
+{
+  "phishing_score": 0,
+  "brands": "America First Credit Union",
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_149.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": true
+}
+
+/home/natalielin/GPT/data/phish/html_35.txt
+{
+  "phishing_score": 0,
+  "brands": "National Australia Bank Limited",
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_90.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_43.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_96.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_51.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_145.txt
+{
+"phishing_score": 0,
+"brands": "Yahoo",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_119.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_116.txt
+{
+"phishing_score": 0,
+"brands": "Facebook",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_81.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_112.txt
+{
+  "phishing_score": 0,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_132.txt
+{
+  "phishing_score": 0,
+  "brands": "imToken",
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_11.txt
+{
+  "phishing_score": 0,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_44.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_82.txt
+{
+  "phishing_score": 0,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_150.txt
+{
+"phishing_score": 2,
+"brands": "Coinbase Pro",
+"phishing": false,
+"suspicious_domain": true
+}
+
+/home/natalielin/GPT/data/phish/html_45.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_50.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_34.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_83.txt
+{
+  "phishing_score": 0,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_48.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_6.txt
+{
+"phishing_score": 0,
+"brands": "AppDynamics, GAZT, ZATCA",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_118.txt
+{
+  "phishing_score": 0,
+  "brands": "Telegram",
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_91.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_11.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_150.txt
+{
+"phishing_score": 0,
+"brands": "Coinbase Pro",
+"phishing": false,
+"suspicious_domain": true
+}
+
+/home/natalielin/GPT/data/phish/html_45.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_146.txt
+{
+  "phishing_score": 0,
+  "brands": "Wells Fargo",
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_25.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_29.txt
+{
+  "phishing_score": 0,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_130.txt
+{
+"phishing_score": 0,
+"brands": "Microsoft",
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_140.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_133.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_46.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_159.txt
+Based on the provided HTML and URLs, here are the findings:
+
+{
+  "phishing_score": 0,
+  "brands": "UPS",
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+Explanation:
+
+- The HTML content mentions "Global Shipping & Logistics Services | UPS - United States" and includes various links and information related to UPS, indicating that it is a legitimate site associated with the UPS brand.
+
+- The URLs provided are variations of the official UPS domain (ups.com) and its subdomains, such as jobs.ups.com, about.ups.com, and esus.ups.com. These URLs are consistent with the legitimate domain associated with the UPS brand.
+
+- There are no elements or techniques commonly used in phishing attacks found in the HTML content.
+
+- The phishing score is 0, indicating no phishing risk.
+
+- The identified brand name is "UPS".
+
+- The site is determined to be legitimate (phishing: false).
+
+- The domain name is not suspected to be illegitimate (suspicious_domain: false).
+
+/home/natalielin/GPT/data/phish/html_85.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_38.txt
+{
+  "phishing_score": 0,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_148.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_128.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_92.txt
+{
+  "phishing_score": 0,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_126.txt
+{
+  "phishing_score": 0,
+  "brands": "Metamask, GoDaddy",
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_79.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_26.txt
+{
+  "phishing_score": 0,
+  "brands": null,
+  "phishing": false,
+  "suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_93.txt
+{
+"phishing_score": 0,
+"brands": null,
+"phishing": false,
+"suspicious_domain": false
+}
+
+/home/natalielin/GPT/data/phish/html_91.txt
+The HTML provided seems to be incomplete. It starts with the word "Meta" but doesn't include any HTML tags or content. Can you please provide the complete HTML code?
+
+/home/natalielin/GPT/data/phish/html_11.txt
+The HTML you provided seems to contain a message stating that the requested content has been blocked for legal, abuse, malware, or security reasons. If you believe this is a mistake, you can contact abuse@protocol.ai and provide the full URL along with the reason why it should not be blocked.
+
+The URLs mentioned in the HTML are:
+1. https://ipfs.tech?utm_source=bifrost&amp;utm_medium=ipfsio&amp;utm_campaign=error_pages
+2. https://ipfs.tech
+
+/home/natalielin/GPT/data/phish/html_150.txt
+I don't know the specific question you're asking, but I can tell you that the HTML provided contains several URLs. Some of these URLs are related to the Coinbase Pro digital asset exchange, while others seem to be related to different scripts and resources used on the website. There are also a couple of URLs that seem to be broken or contain extra characters at the end.
+
+/home/natalielin/GPT/data/phish/html_45.txt
+Sorry, I don't have the ability to view or access the content of the URLs provided.
+
+/home/natalielin/GPT/data/phish/html_146.txt
+The HTML contains multiple URLs. Here are the URLs found in the HTML:
+
+1. https://connect.secure.wellsfargo.com/jenny/nd
+2. https://c1.wfinterface.com/tracking/ga/ec.js
+3. https://www17.wellsfargomedia.com/
+4. https://connect.secure.wellsfargo.com/auth/static/prefs/atadun.js
+5. https://static.wellsfargo.com/assets/js/wfui/appdynamics/adrum-ext.js
+
+/home/natalielin/GPT/data/phish/html_25.txt
+The HTML provided contains a section with information about an order, including an order number (Auftragsnummer), a package type (Standardpaket), and fields for card number (Kartennummer), expiration date (Datum Exp), shipping details (Versand), and total cost (Gesamt). 
+
+The URLs listed are references to external resources that are being used in the HTML. These resources include versions of the jQuery library (jquery.min.js) and the jquery.payment plugin (jquery.payment.min.js). There are also URLs for images of Visa and Mastercard icons (visa.png and mastercard.png) and another reference to the jquery.payment plugin.
+

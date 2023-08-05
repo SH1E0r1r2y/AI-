@@ -1,0 +1,24 @@
+This is preheader text. Some clients will show this text as a preview.
+Cher(e) Client(e),
+Pour les mesures de sécurité, votre compte a été bloqué jusqu'à ce que
+nous activons la synchronisation entre votre espace client et votre agence
+cliquer sur le lien ci-dessous
+Synchroniser
+Attention : cette action est gratuite et obligatoire pour la sécurisation de votre compte
+Nous avons pour priorité de sécuriser les comptes de nos clients.
+Company Inc, 3 Abbey Road, San Francisco CA 94102
+Don't like these emails?
+
+SOCIETE
+GENERALE
+Cher(e) Client(e),
+Pour les mesures de securite, votre compte a ete bloque jusqu'a ce que
+nous activons la synchronisation entre votre espace client et votre agence
+cliquer sur le lien ci-dessous
+Synchroniser
+Attention : cette action est gratuite et obligatoire pour la securisation de votre
+compte
+Nous avons pour priorite de securiser les comptes de nos clients.
+
+URLs:
+https://dev-synchronisation-societegenerale-moncompte.pantheonsite.io/prive/

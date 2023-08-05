@@ -1,0 +1,50 @@
+Email or phone
+Forgot email?
+Type the text you hear or see
+Not your computer? Use a Private Window to sign in.
+Learn more
+Create account
+For my personal use
+English (United States)
+Afrikaans
+azərbaycan
+bosanski
+català
+Čeština
+Cymraeg
+Dansk
+English (United Kingdom)
+English (United States)
+Español (España)
+Español (Latinoamérica)
+euskara
+Filipino
+Français (Canada)
+Français (France)
+Gaeilge
+galego
+Hrvatski
+Indonesia
+isiZulu
+íslenska
+Italiano
+Kiswahili
+latviešu
+lietuvių
+magyar
+Melayu
+Nederlands
+polski
+Português (Brasil)
+Português (Portugal)
+shqip
+Slovenčina
+slovenščina
+srpski (latinica)
+Svenska
+Help
+Privacy
+
+URLs:
+https://www.gstatic.com/_/mss/boq-identity/_/ss/k=boq-identity.AccountsSignInUi.L2urMlTm-0E.L.F4.O/am=FwcAMIdHA4j_qc73jJPDAAAAAAAAAAAAC8MdAQ/d=1/ed=1/rs=AOaEmlHw3AnUB5V63CxfFnByff8VdySqjA/m=identifierview,_b,_tp,_r
+https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.SF3EBnbvzkY.es5.O/am=FwcAMIdHA4j_qc73jJPDAAAAAAAAAAAAC8MdAQ/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlFJkFDJq-lG550LBopd-ewjtULzrg/m=_b,_tp,_r

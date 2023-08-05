@@ -1,0 +1,85 @@
+1inch - DeFi / DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum
+Trade
+Earn
+Buy Crypto
+Ethereum
+Connect wallet
+Swap
+Ethereum
+Dai Stablecoin
+Connect wallet
+Trade
+Simple mode
+Classic mode
+Staking
+Governance
+Snapshot
+Earn
+Delegate
+Strategies
+Pools
+Market
+Documentation
+Help
+Suggest a feature
+Report a bug
+BNB Chain bridge
+Polygon bridge
+Optimism bridge
+Arbitrum bridge
+Gnosis Chain bridge
+Avalanche bridge
+Fantom bridge
+Klaytn bridge
+Aurora bridge
+ZKSync Era bridge
+Buy Crypto
+Connect Wallet
+MetaMask
+Connect your MetaMask wallet
+Trust Wallet
+Connect your Trust Wallet
+WalletConnect
+Connect your WalletConnect wallet
+
+1inch Trade V DAO Earn V More Bridges v Ethereum V Connect wallet
+Swap Limit C +
+You sell
+↓ ETH 1
+Ethereum ~$1 913.59
+You buy
+DAI 1910.861987
+Dai Stablecoin ~$1911.89 (-0.09%)
+1 ETH =
+1910.86
+~$6.07
+DAI
+(~$1 911.8)
+Connect wallet
+
+URLs:
+https://app.1inch.io/
+https://buy.moonpay.io/?apiKey=pk_live_q9RGNNxVw8kvQF87xk9SgL5ZwAfT4O5h&amp;currencyCode=ETH
+https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f
+https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f
+https://bafybeih4i57c5k5onbra2yks4rvsyo64r2g3xwriehj3v3o6sqyao6f2b4.ipfs.dweb.link/
+https://0405maluitpg3lg7e632idp7qeqq9mo6rr6rv3gli8lchh9g64gbtag.siasky.net/
+https://snapshot.org/
+https://gov.1inch.io/
+https://docs.1inch.io/
+https://blog.1inch.io/
+https://help.1inch.io/
+https://help.1inch.io/en/articles/6588963-address-screening
+https://1inch.io/
+https://submit.1inch.io/b/feature-requests/
+https://cbridge.celer.network/
+https://wallet.polygon.technology/polygon/bridge/
+https://app.optimism.io/bridge
+https://bridge.arbitrum.io/
+https://omni.gnosischain.com/bridge
+https://bridge.avax.network/
+https://app.multichain.org/
+https://scope.klaytn.com/bridge
+https://rainbowbridge.app/transfer
+https://bridge.zksync.io/
+https://buy.moonpay.io/?apiKey=pk_live_q9RGNNxVw8kvQF87xk9SgL5ZwAfT4O5h&amp;currencyCode=ETH

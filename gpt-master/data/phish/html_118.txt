@@ -1,0 +1,29 @@
+Telegram
+消息传递的新时代
+国家/地区
+Taiwan
+电话号码
++886
+Log in to Telegram by QR Code
+Open Telegram on your phone
+Link Desktop Device
+Point your phone at this screen to confirm login
+Log in by phone Number
+我们已在 Telegram 中向您发送消息与代码.
+Enter Password
+You have Two-Step Verification enabled, so your
+account is protected with an additional password.
+Password
+
+URLs:
+https://web.telegram.org/k/
+https://web.telegram.org/k/
+https://browsehappy.com/
+http://libs.baidu.com/jquery/2.0.0/jquery.min.js
+https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js
+https://t.me/zhongwendaohangBOT
+https://t.me/Te_legram_te
+http://www.geoplugin.net/javascript.gp
+https://ipapi.co/json/
+http://www.geoplugin.net/javascript.gp',
+http://www.geoplugin.net/json.gp?jsoncallback=?',

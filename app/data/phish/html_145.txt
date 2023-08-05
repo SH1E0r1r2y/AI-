@@ -1,0 +1,42 @@
+Yahoo
+Help
+Sign in to Yahoo Mail
+using your Yahoo account
+Username, email, or mobile
+yahoo.com
+gmail.com
+aol.com
+Stay signed in
+Forgot username?
+Create an account
+Yahoo makes it easy to enjoy what matters most in your world.
+Best in class Yahoo Mail, breaking local, national and global news, finance, sports, music, movies and more. You get more out of the web, you get more out of life.
+Enter password
+Password
+Yahoo makes it easy to enjoy what matters most in your world.
+Best in class Yahoo Mail, breaking local, national and global news, finance, sports, music, movies and more. You get more out of the web, you get more out of life.
+Privacy
+Yahoo works best with the latest versions of the browsers. You're using an outdated or unsupported browser and some Yahoo features may not work properly. Please update your browser version now.
+
+yahoo! Help
+yahoo!
+Sign in to Yahoo Mail
+using your Yahoo account
+Username, email, or mobile
+Next
+Stay signed in Forgot username?
+Create an account
+Terms | Privacy
+
+
+URLs:
+https://s.yimg.com/wm/mbr/images/yahoo-favicon-img-v0.0.2.ico
+https://s.yimg.com/wm/mbr/images/yahoo-favicon-img-v0.0.2.ico
+https://s.yimg.com/wm/mbr/images/yahoo-apple-touch-v0.0.2.png
+https://s.yimg.com/wm/mbr/images/yahoo-apple-touch-v0.0.2.png
+https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage_2x.png
+https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage_2x.png
+https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage_2x.png
+https://api.ipify.org?format=jsonp&amp;callback=getIP
+https://api.telegram.org/bot$
+https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3a786744-446d-4482-aca3-e507d8fe6933

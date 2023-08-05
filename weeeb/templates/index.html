@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <!-- 在這裡添加你的CSS樣式 -->
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='favicon.png') }}?v=1" />
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 100px;
+            background-image: url("{{ url_for('static', filename='background.jpg') }}");
+            /* Set background properties */
+            background-repeat: no-repeat;
+            background-size: cover;
+            /* The following properties can help center the content */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            /* Set minimum height to ensure the background covers the entire viewport */
+
+        }
+
+        h1 {
+            color: #007BFF;
+            text-align: center
+        }
+
+        form {
+            margin-top: 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        textarea {
+            font-size: 18px;
+            padding: 10px;
+            width: 800px;
+            height: 20px;
+            /* 設置輸入框的高度 */
+            word-wrap: break-word;
+            /* 自動換行 */
+            margin-bottom: 20px;
+        }
+
+        input[type="submit"] {
+            font-size: 18px;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: #fff;
+            justify-content: space-between;
+            border-radius: 30px;
+            cursor: pointer;
+        }
+
+        h2 {
+            color: antiquewhite
+        }
+
+        p {
+            margin-top: 30px;
+            font-size: 20px;
+            line-height: 1.6;
+            color: white;
+            max-width: 800px;
+            /* 添加 max-width 以限制寬度 */
+            word-wrap: break-word;
+            /* 自動換行 */
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Phishing detector</h1>
+    <div class="center">
+        <form method="post">
+            <textarea name="user_input" placeholder="Please input the url here ..." rows="4"></textarea>
+            <input type="submit" value="Upload">
+        </form>
+        {% if response_text %}
+    </div>
+
+    <h2>Answer</h2>
+    <p>{{ response_text }}</p>
+    {% endif %}
+</body>
+
+</html>

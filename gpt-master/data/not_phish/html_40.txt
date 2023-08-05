@@ -1,0 +1,196 @@
+Intel® Xeon® Max
+Intel® Data Center GPU
+Granulate™
+OpenVINO™
+Intel® Optane™ 持續性記憶體
+Intel Mobile Broadband 解決方案
+Intel® Infrastructure Processing Unit (Intel® IPU)
+Thunderbolt™ 技術
+Intel® 資料中心管理 (Data Center Manager)
+Retail Partner Solutions
+Bahasa Indonesia
+English
+Español
+Français
+Close Search Panel
+Alder Lake
+“Ice Lake”, Ice AND Lake, Ice OR Lake, Ice*
+to access
+												restricted content.
+Safari
+Chrome
+Intel Agilex® 7 FPGA支援高達116Gbps, 400GbE, PCIe4.0,具有Hard IP及一系列Soft IP, 可支援額外的通訊協定, 現已投入生產, 可讓客人在標準籌建時間內交付生產解決方案。
+<link rel="stylesheet" href="/etc.clientlibs/settings/wcm/designs/ver/230719/intel/clientlibs/pages/commons-page.min.css" type="text/css"><script src="/etc.clientlibs/settings/wcm/designs/ver/230719/intel/clientlibs/pages/commons-page.min.js" defer></script>
+<script>!function(){var e=setInterval(function(){"undefined"!=typeof $CQ&&($CQ(function(){CQ_Analytics.SegmentMgr.loadSegments("/etc/segmentation"),CQ_Analytics.ClientContextUtils.init("/etc/clientcontext/intel",window.location.pathname.substr(0,window.location.pathname.indexOf(".")))}),clearInterval(e))},100)}();</script>
+<link rel="preload" as="style" href="/etc.clientlibs/settings/wcm/designs/intel/tw/zh/css/resources/css/intel.rwd.override.css"/>
+<link rel="stylesheet" type="text/css" href="/etc.clientlibs/settings/wcm/designs/intel/tw/zh/css/resources/css/intel.rwd.override.css"/>
+Back Button
+checkbox label
+label
+checkbox label
+label
+checkbox label
+label
+Clear
+checkbox label
+label
+Apply
+Cancel
+
+URLs:
+https://t.contentsquare.net/uxa/bcc01ac076bc2.js
+https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-12/intel-xeon-4th-gen-processor-background-image.jpg
+https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-12/intel-xeon-4th-gen-processor-background-image.jpg
+https://www.intel.com/content/www/tw/zh/homepage.html
+https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-12/intel-xeon-4th-gen-processor-background-image.jpg
+https://www.intel.com.tw/content/www/tw/zh/homepage.html
+https://www.intel.co.id/content/www/id/id/homepage.html
+https://www.intel.de/content/www/de/de/homepage.html
+https://www.intel.com/content/www/us/en/homepage.html
+https://www.intel.com/content/www/us/en/homepage.html
+https://www.intel.la/content/www/xl/es/homepage.html
+https://www.intel.fr/content/www/fr/fr/homepage.html
+https://www.intel.com.br/content/www/br/pt/homepage.html
+https://www.intel.vn/content/www/vn/vi/homepage.html
+https://www.thailand.intel.com/content/www/th/th/homepage.html
+https://www.intel.co.kr/content/www/kr/ko/homepage.html
+https://www.intel.co.jp/content/www/jp/ja/homepage.html
+https://www.intel.cn/content/www/cn/zh/homepage.html
+https://www.intel.com.tw/content/www/tw/zh/homepage.html
+https://www.intel.de/content/www/de/de/homepage.html
+https://www.intel.vn/content/www/vn/vi/homepage.html
+https://www.intel.com.br/content/www/br/pt/homepage.html
+https://www.thailand.intel.com/content/www/th/th/homepage.html
+https://www.intel.co.kr/content/www/kr/ko/homepage.html
+https://www.intel.co.jp/content/www/jp/ja/homepage.html
+https://www.intel.com/content/www/us/en/homepage.html
+https://www.intel.co.id/content/www/id/id/homepage.html
+https://www.intel.fr/content/www/fr/fr/homepage.html
+https://www.intel.la/content/www/xl/es/homepage.html
+https://www.intel.cn/content/www/cn/zh/homepage.html
+https://www.intel.com.tw/akam/13/9046076
+https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
+https://cdn.cookielaw.org/scripttemplates/202306.2.0/otBannerSdk.js
+https://cdn.cookielaw.org/logos/static/ot_persistent_cookie_icon.png')
+https://intel--isvcqa5.sandbox.my.site.com
+https://www.intel.com/libs/apps/intel/myintel/profile.html/validate/loggedin';
+https://geti.intel.com/
+https://ark.intel.com/content/www/tw/zh/ark.html
+https://forums.intel.com/
+https://supporttickets.intel.com/s/warrantyinfo?language=zh_TW
+https://community.intel.com/t5/Blogs/ct-p/blogs?profile.language=zh-TW
+https://designintools.intel.com/
+https://registrationcenter.intel.com/en/
+https://consumer.intel.com/intelcorpb2c.onmicrosoft.com/B2C_1A_UnifiedLogin_SISU_CML_SAML/generic/login?entityId=www.intel.com
+https://signin.intel.com/ContactUs.aspx',
+https://www.intel.com/content/www/tw/zh/homepage.html'
+https://welcome.intel.com/login.aspx?appid=258&qlogin=true',
+https://federatesso.intel.com',
+https://welcome.intel.com/logout.aspx',
+https://signin.intel.com/Logout?RedirectURL=https://www.intel.com/content/www/tw/zh/homepage.html',
+https://signin.intel.com/Logout?RedirectURL=',
+https://partner.intel.com/s/post-launch-primary',
+https://partner.intel.com/s/post-launch-non-primary',
+https://consumer.intel.com/intelcorpb2c.onmicrosoft.com/B2C_1A_UnifiedLogin_SISU_CML_SAML/generic/login?entityId=www.intel.com',
+https://consumer.intel.com/intelcorpb2c.onmicrosoft.com/B2C_1A_UnifiedLogin_SISU_CML_SAML/generic/login?entityId=www.intel.com&ui_locales=zh-hant',
+https://login.microsoftonline.com/common/oauth2/v2.0/logout?post_logout_redirect_uri=https://www.intel.com/content/www/tw/zh/homepage.html'
+https://login.microsoftonline.com/common/oauth2/v2.0/logout?post_logout_redirect_uri=',
+https://consumer.intel.com/intelcorpb2c.onmicrosoft.com/B2C_1A_UNIFIEDLOGIN_SISU_STD_OIDC/oauth2/v2.0/logout?id_token_hint=$TOKEN$%26post_logout_redirect_uri=https://www.intel.com/apps/intel/services/unifiedlogout.json',
+https://consumer.intel.com/intelcorpb2c.onmicrosoft.com/B2C_1A_UNIFIEDLOGIN_SISU_STD_OIDC/oauth2/v2.0/authorize?client_id=8b32f2f3-7a32-4902-8821-1df682b7043b%26scope=profile%20offline_access%208b32f2f3-7a32-4902-8821-1df682b7043b%20openid%26response_mode=fragment%26response_type=token%26prompt=none%26redirect_uri=',
+https://login.microsoftonline.com/46c98d88-e344-4ed4-8496-4ed7712e255d/oauth2/v2.0/authorize?client_id=cb0ec60b-608b-4e76-9d69-1e5e0afb3456%26scope=openid%20profile%20offline_access%26response_mode=fragment%26response_type=token%26prompt=none%26redirect_uri=',
+https://www.intel.com/content/www/us/en/secure/my-intel/dashboard.html',
+https://consumer.intel.com/intelcorpb2c.onmicrosoft.com/B2C_1A_UNIFIEDLOGIN_SISU_STD_OIDC/oauth2/v2.0/authorize?client_id=8b32f2f3-7a32-4902-8821-1df682b7043b%26scope=profile
+https://www.intel.com/content/www/tw/zh/homepage.html'
+https://federatesso.intel.com
+https://www.intel.co.id/content/www/id/id/homepage.html
+https://www.intel.de/content/www/de/de/homepage.html
+https://www.intel.com/content/www/us/en/homepage.html
+https://www.intel.la/content/www/xl/es/homepage.html
+https://www.intel.fr/content/www/fr/fr/homepage.html
+https://www.intel.com.br/content/www/br/pt/homepage.html
+https://www.intel.vn/content/www/vn/vi/homepage.html
+https://www.thailand.intel.com/content/www/th/th/homepage.html
+https://www.intel.co.kr/content/www/kr/ko/homepage.html
+https://www.intel.co.jp/content/www/jp/ja/homepage.html
+https://www.intel.cn/content/www/cn/zh/homepage.html
+https://www.intel.com.tw/content/www/tw/zh/homepage.html
+https://ark.intel.com/content/www/tw/zh/ark.html?wapkw=quicklink:product-specifications>
+https://www.intel.com.tw/content/www/tw/zh/products/overview.html?wapkw=quicklink:products
+https://www.intel.com.tw/content/www/tw/zh/support.html?wapkw=quicklink:support
+https://downloadcenter.intel.com/zh-tw/?wapkw=quicklink:download-center
+https://supporttickets.intel.com/services/oauth2/authorize?response_type=token&client_id=3MVG9QDx8IX8nP5Rh0X3B7gohGtUh8sjFQ8Tw_U8sS9_PoVrupDFwZ_nwLcze2n64lGBbGchyUb7_9W8n8pAV&redirect_uri=https%3A%2F%2Fwww.intel.com.tw%2Fcontent%2Fwww%2Fus%2Fen%2Fsecure%2Fmy-intel%2Ftoken.html
+https://premiersupport.intel.com/IPS/services/oauth2/authorize?response_type=token&client_id=3MVG9xOCXq4ID1uEa5F2lCYAp6mmKvTMlKbMIrsMKShY2oOqs1ETvPRjwmhoPivHd9_U53EzmiyYxn3nVpA9J&redirect_uri=https%3A%2F%2Fwww.intel.com.tw%2Fcontent%2Fwww%2Fus%2Fen%2Fsecure%2Fmy-intel%2Ftoken.html
+http://search.intel.com/SearchLookup/DataProvider.ashx',
+https://platform.cloud.coveo.com/rest/search/v2/querySuggest',
+https://support.apple.com/downloads/safari
+https://www.microsoft.com/en-us/edge
+https://www.mozilla.org/en-US/firefox/new/
+http://schema.org
+https://www.intel.com/content/www/us/en/homepage.html
+https://www.intel.com/content/www/us/en/search.html?ws=text
+https://community.intel.com/
+https://community.intel.com/t5/Blogs/Products-and-Solutions/FPGA/Intel-Agilex-7-FPGAs-with-F-Tile-Delivering-Industry-s-Fastest/post/1461112
+https://www.intc.com/investor-relations/default.aspx
+https://newsroom.intel.com.tw/
+https://www.facebook.com/inteltaiwan
+https://www.linkedin.com/company/intel-corporation
+https://instagram.com/inteltaiwan/
+https://edc.intel.com/content/www/tw/zh/products/performance/benchmarks/overview/
+https://www.intel.com.tw/content/www/tw/zh/policy/policy-human-rights.html
+https://www.intel.com.tw/akam/13/pixel_9046076?a=dD1jNDcxOWNmZWM2ZWI3MWI5Nzc0MDAwMTc1Mzc4NDI4NjNkNjVlMmQ3JmpzPW9mZg==
+http://www.apache.org/licenses/LICENSE-2.0
+https://github.com/adobe/alloy/releases/tag/v2.15.0
+https://adobe.ly/3sHgQHb
+https://adobe.ly/3GQ3Q7t
+https://ns.adobe.com/personalization/default-content-item
+https://ns.adobe.com/personalization/dom-action
+https://ns.adobe.com/personalization/html-content-item
+https://ns.adobe.com/personalization/redirect-item
+https://ns.adobe.com/personalization/json-content-item
+https://ns.adobe.com/personalization/measurement
+https://ns.adobe.com/experience/alloy
+https://adobe.ly/3sHh553
+https://www.intel.com/content/dam/www/global/wap/cdn/wap.gif?c='
+https://cdn.cookielaw.org/scripttemplates/otSDKStub.js';
+https://hm.baidu.com/hm.js
+https://www.intel.com/content/dam/www/global/wap/cdn/wap.gif?c=
+https://www91.intel.
+https://dsadata.intel.com/installer
+https://ark.intel.com/'))
+https://www.intel.com/content/dam/www/global/wap/shared/$
+https://www.intel.com/content/dam/www/global/wap/shared/prod/wap-iframe.html
+https://dsadata.intel.com/installer
+https://cdn.cookielaw.org/logos/215b83c1-e050-4276-906c-e65481a36156/4e0ec566-94a6-4ca8-9bde-a3e502094286/240d2370-ed0a-4f7c-b2fa-6d10b13ac82c/logo-classicblue-3000px-OneTrust.png
+https://www.intel.com.tw/content/www/tw/zh/privacy/intel-privacy-notice.html
+https://www.intel.com.tw/content/www/tw/zh/privacy/intel-cookie-notice.html
+https://cookiepedia.co.uk/giving-consent-to-cookies
+https://www.intel.com/content/dam/www/public/cn/zh/documents/corporate-information/china-supplement-to-global-privacy-notice.pdf
+https://www.onetrust.com/products/cookie-consent/
+https://www.intel.com
+https://starget.intel.
+https://www.intel.com/content/dam/www/global/wap/main/pxlcfg.js
+https://www.intel.com/content/dam/www/global/wap/main/pxlcfg.js
+https://intelpartneralliance.intel.com/en-cloud-business-compentency
+https://intelpartneralliance.intel.com/en-cloud-technical-competency
+https://intelpartneralliance.intel.com/en-cloud-fundamentals
+https://devcloud.intel.com/
+https://supporttickets.intel.com/warrantyinfo?lang=en-US
+https://marketingstudio.intel.com/
+https://gameplay.intel.com/
+https://networkbuilders.intel.com/
+https://geti.intel.com/
+https://game.intel.com
+https://edc.intel.com/
+https://devchallenge.intel.com/
+https://marketplace.intel.com/
+https://store.intelrealsense.com/admin_1hEsti
+https://t.contentsquare.net/uxa/bcc01ac076bc2.js
+https://live.rezync.com/sync?c=16b6410431b6374e780104abb0443ca8&p=47a2a14a550969d7b85f5114d17307d5&k=intel-pixel-$
+https://onsite2.researchintel.com/engine/vpn_widgetscript.asp?r=
+https://onsite.onrcx.com/optoutcookie.asp',true);onXhr.withCredentials=true;onXhr.send(null);
+https://onsite.onrcx.com/optoutcookie.asp');onXdr.onprogress=function()
+https://onsite2.researchintel.com/engine/j_saveIDSAInfo.asp';var
+https://www.intel.com/content/www/us/en/support/contact-intel.html','https://www.intel.fr/content/www/fr/fr/support/contact-intel.html','https://www.intel.ru/content/www/ru/ru/support/contact-intel.html','https://www.intel.cn/content/www/cn/zh/support/contact-intel.html','https://www.intel.co.jp/content/www/jp/ja/support/contact-intel.html','https://www.intel.de/content/www/de/de/support/contact-intel.html','https://www.intel.com.br/content/www/br/pt/support/contact-intel.html','https://www.intel.es/content/www/es/es/support/contact-intel.html','https://www.intel.com.tw/content/www/tw/zh/support/contact-intel.html','https://www.intel.co.kr/content/www/kr/ko/support/contact-intel.html','https://www.intel.sg/content/www/xa/en/support/contact-intel.html','https://www.intel.co.uk/content/www/uk/en/support/contact-intel.html','https://www.intel.la/content/www/xl/es/support/contact-intel.html','https://www.intel.it/content/www/it/it/support/contact-intel.html','https://www.intel.com.tr/content/www/tr/tr/support/contact-intel.html','https://www.thailand.intel.com/content/www/th/th/support/contact-intel.html','https://www.intel.vn/content/www/vn/vi/support/contact-intel.html','https://www.intel.pl/content/www/pl/pl/support/contact-intel.html','https://www.intel.co.id/content/www/id/id/support/contact-intel.html','https://www.intel.ca/content/www/ca/fr/support/contact-intel.html','https://www.intel.ca/content/www/ca/en/support/contact-intel.html','https://www.intel.co.il/content/www/us/en/support/contact-intel.html','https://www.intel.com.au/content/www/au/en/support/contact-intel.html','https://www.intel.in/content/www/in/en/support/contact-intel.html'];onObj.innerHTML='<div
+https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/201112/intel/clientlibs/supportLibs/resources/images/support/feedback-icon@2x.png
+https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/201112/intel/clientlibs/supportLibs/resources/images/support/yes-no-sprite.png);background-repeat:no-repeat;background-position:right
+https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/201112/intel/clientlibs/supportLibs/resources/images/support/yes-no-sprite.png);background-repeat:no-repeat;background-position:right
