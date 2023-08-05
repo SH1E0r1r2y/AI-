@@ -4,6 +4,8 @@
 2. [Learning OpenAI API](https://youtu.be/9AXP7tCI9PI)
 3. [OpenAI 專屬助理--網頁部分](https://youtu.be/jTNgTQLa528)
 4. [ChatGPT Writer](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/related)
+5. Detecting Phishing Sites Using ChatGPT 2023/06/09
+6. Phishing by Form: The Abuse of Form Sites 2011/10/18 IEEE
 
 ### (2)	專題背景與目的
 - Motivation
