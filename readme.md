@@ -32,13 +32,15 @@
     - ❓[Monkey.org(Mbox)資料集較舊，新的打不開](https://monkey.org/~jose/phishing/)
     - ⭕[OpenPhish：資料及即時更新:)](https://openphish.com/)
 - 初步訓練
-  - 爬蟲抓取裡面的 URL 當作基準點(可能有多個 url)，爬取 URL 裡面的HTML ，再利用剛剛寫的簡化 HTML 轉成 .txt 黨傳給 chatGPT讀取裡面的內容，分析是否為釣魚。
-- 深度學習
-  - 直接給網站一個URL，他會顯示是 safe 或是 warning！並提供分數
-  - 監督式學習來標記釣魚網址的特點，優化辨識
-- 結尾
-  - 利用 Confusion Matrix 比較了我們的自然語言模型與正統機器學習在釣魚郵件辨識方面的準確率
-  - 未來可能的研究方向建議
+  - Web Crawler<!--爬蟲抓取裡面的 URL 當作基準點(可能有多個 url)，爬取 URL 裡面的HTML ，再利用剛剛寫的簡化 HTML 轉成 .txt 黨傳給 chatGPT讀取裡面的內容，分析是否為釣魚。-->
+  - Add OCR texts to simplified HTMLs 
+  - Identify chatGPT with Prompt 
+- Deep Learning
+    - Provide a website URL directly, and it will display whether it's safe or a warning, along with a score.
+    - Utilize supervised learning to label the characteristics of phishing URLs, optimizing the recognition process.
+- Conclusion
+    - Employed a Confusion Matrix to compare the accuracy of our natural language model with traditional machine learning in the context of phishing email recognition.
+    - Suggested potential directions for future research.
   
 ### 一鍵搜索資料夾
 - Confusion Matrix：計算與挑選模糊矩陣的樣本
