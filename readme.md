@@ -15,7 +15,9 @@
 - Motivation
 
     During the course, the combination of generative AI with fraud was mentioned, which proved to be quite an intriguing perspective. With this initial idea and data collection, we believed that we could focus on the topic of AI analyzing URLs for phishing website links. Phishing website links are commonly associated with cybersecurity breaches, appearing frequently in attacks through mediums such as emails and text messages. Despite their long history, they continue to be a persistent threat.
+  
     Furthermore, there is another advantage to analyzing website links. Phishing emails often target businesses, and the emails themselves involve privacy concerns. By simply analyzing the submitted URL to determine whether it leads to a phishing website, we can better protect privacy.
+
     Existing phishing website databases are typically populated through manual submissions and subsequent verification. Using AI for detection provides a quicker and more real-time approach to the task, aligning with the need for swifter detection. We have chosen to employ GPT-3.5 for this purpose.
 <!--在上課的時候有提到生成式AI與詐騙的結合 ，這是一個蠻有趣的切入點。
 有了這個初步想法並蒐集資料後，我們覺得可以以AI分析URL是否為釣魚網站連結作為主題，釣魚網站連結常出現在資安入侵的攻擊當中，舉凡郵件、簡訊等都常常出現，雖然他的出現歷史已經很悠久了，但是仍然歷久不衰。
