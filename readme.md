@@ -13,14 +13,18 @@
 
 ### (2)	專題背景與目的
 - Motivation
+During the course, the combination of generative AI with fraud was mentioned, which proved to be quite an intriguing perspective. With this initial idea and data collection, we believed that we could focus on the topic of AI analyzing URLs for phishing website links. Phishing website links are commonly associated with cybersecurity breaches, appearing frequently in attacks through mediums such as emails and text messages. Despite their long history, they continue to be a persistent threat.
 
-在上課的時候有提到生成式AI與詐騙的結合 ，這是一個蠻有趣的切入點。
+Furthermore, there is another advantage to analyzing website links. Phishing emails often target businesses, and the emails themselves involve privacy concerns. By simply analyzing the submitted URL to determine whether it leads to a phishing website, we can better protect privacy.
+
+Existing phishing website databases are typically populated through manual submissions and subsequent verification. Using AI for detection provides a quicker and more real-time approach to the task, aligning with the need for swifter detection. We have chosen to employ GPT-3.5 for this purpose.
+<!--在上課的時候有提到生成式AI與詐騙的結合 ，這是一個蠻有趣的切入點。
 有了這個初步想法並蒐集資料後，我們覺得可以以AI分析URL是否為釣魚網站連結作為主題，釣魚網站連結常出現在資安入侵的攻擊當中，舉凡郵件、簡訊等都常常出現，雖然他的出現歷史已經很悠久了，但是仍然歷久不衰。
 
 另外，透過分析網站連結還有另外一個優點，
 釣魚郵件常見的目標都是企業，郵件本身涉及隱私，單純以提交 url 去分析是否為釣魚網站可以保護更好的保護隱私
 
-現有的釣魚網站資料庫，通常是透過人工提交，再一一審核，透過能尋找一個更迅速、即時的方式來做偵測， AI 的應用剛好可以符合需求。我們選擇的是CHAT-3.5
+現有的釣魚網站資料庫，通常是透過人工提交，再一一審核，透過能尋找一個更迅速、即時的方式來做偵測， AI 的應用剛好可以符合需求。我們選擇的是CHAT-3.5-->
 - 尋找資料集
     - ❌[資料集是.raff（attribute-relation file format）檔](https://archive.ics.uci.edu/dataset/327/phishing+websites)
     - ❓[資料集是phishtank，現在不能註冊](https://github.com/zerofox-oss/phishpond)
