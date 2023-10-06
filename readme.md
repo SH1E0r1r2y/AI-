@@ -18,6 +18,7 @@
 釣魚郵件常見的目標都是企業，郵件本身涉及隱私，單純以提交 url 去分析是否為釣魚網站可以保護更好的保護隱私
 
 現有的釣魚網站資料庫，通常是透過人工提交，再一一審核，透過能尋找一個更迅速、即時的方式來做偵測， AI 的應用剛好可以符合需求。我們選擇的是CHAT-3.5
+
 ### (3)	Solutions
 - Database
     - ❌[資料集是.raff（attribute-relation file format）檔](https://archive.ics.uci.edu/dataset/327/phishing+websites)
