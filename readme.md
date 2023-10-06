@@ -27,7 +27,7 @@
     - ❓[Monkey.org(Mbox)資料集較舊，新的打不開](https://monkey.org/~jose/phishing/)
     - ⭕[OpenPhish：資料及即時更新:)](https://openphish.com/)
 - 初步訓練
-  - 輸入一則郵件，抓取裡面的 URL 當作爬蟲的基準點(可能有多個 url)，爬取 URL 裡面的HTML ，再利用剛剛寫的簡化 HTML 轉成 .txt 黨傳給我們的 chatGPT，阿T會讀取裡面的內容，分析是否為釣魚郵件。
+  - 爬蟲抓取裡面的 URL 當作基準點(可能有多個 url)，爬取 URL 裡面的HTML ，再利用剛剛寫的簡化 HTML 轉成 .txt 黨傳給 chatGPT讀取裡面的內容，分析是否為釣魚郵件。
 - 深度學習
   - 直接給網站一個URL，他會顯示是 safe 或是 warning！並提供分數
   - 監督式學習來標記釣魚網址的特點，優化辨識
