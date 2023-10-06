@@ -39,7 +39,7 @@
     - Provide a website URL directly, and it will display whether it's safe or a warning, along with a score.
     - Utilize supervised learning to label the characteristics of phishing URLs, optimizing the recognition process.
 - Conclusion
-    - Employed a Confusion Matrix to compare the accuracy of our natural language model with traditional machine learning in the context of phishing email recognition.
+    - Employed a Confusion Matrix to compare the accuracy of our Natural language processing model with traditional machine learning in the context of phishing email recognition.
     - Suggested potential directions for future research.
   
 ### 一鍵搜索資料夾
