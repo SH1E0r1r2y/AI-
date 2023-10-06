@@ -45,6 +45,10 @@
 6. AnomalyDetectioninEmailsusingMachine LearningandHeaderInformation-2022/03/19
 7. Phishing by Form: The Abuse of Form Sites-2011/10/18 IEEE
 
+### Error
+- ![Alt text](image.png)
+一直沒辦法使用 chatGPT 的機器人，後來跟可以使用的組員比對後發現缺少了一個 persist 資料夾
+
 ### 一鍵搜索資料夾
 - Confusion Matrix：計算與挑選模糊矩陣的樣本
 - crawl：bug1只抓文字；bug2抓取整個html；craw以firefox引擎為模板；web抓取 html 並截圖已做後續OCR處理
@@ -52,7 +56,3 @@
 - weeeb：如果 chatGPT 無法分析的備案，再傳入URL時將初步訓練的所有步驟全部在後台跑一次
 - main：後端訓練
 - gpt-master：串接與網站 Demo
-
-### Error
-- ![Alt text](image.png)
-一直沒辦法使用 chatGPT 的機器人，後來跟可以使用的組員比對後發現缺少了一個 persist 資料夾
