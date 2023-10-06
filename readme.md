@@ -1,6 +1,6 @@
 # AI於釣魚郵件辨別之應用
 # 檔案
-- 📽️Youtube link：https://youtu.be/aACeqIV1ORc
+- 📽️Demo link：https://youtu.be/aACeqIV1ORc
 - 📝Slides：[I1_final.pdf](I1_final.pdf)
 ### 參考資料
 1. [機器學習分析垃圾&釣魚郵件標頭檔](https://github.com/kregg34/EmailHeaderAnomalyDetection/tree/797406a0bcf44a5d9840e72f3759061d1224f8de)
