@@ -1,15 +1,7 @@
 # AI於釣魚郵件辨別之應用
-# 檔案
+# Report Project
 - 📽️Demo link：https://youtu.be/aACeqIV1ORc
 - 📝Slides：[I1_final.pdf](I1_final.pdf)
-### 參考資料
-1. [機器學習分析垃圾&釣魚郵件標頭檔](https://github.com/kregg34/EmailHeaderAnomalyDetection/tree/797406a0bcf44a5d9840e72f3759061d1224f8de)
-2. [Learning OpenAI API](https://youtu.be/9AXP7tCI9PI)
-3. [OpenAI 專屬助理--網頁部分](https://youtu.be/jTNgTQLa528)
-4. [ChatGPT Writer](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/related)
-5. Detecting Phishing Sites Using ChatGPT-2023/06/09
-6. AnomalyDetectioninEmailsusingMachine LearningandHeaderInformation-2022/03/19
-7. Phishing by Form: The Abuse of Form Sites-2011/10/18 IEEE
 
 ### (2)	Backround
 - Motivation
@@ -42,7 +34,16 @@
 - Conclusion
     - Employed a Confusion Matrix to compare the accuracy of our Natural language processing model with traditional machine learning in the context of phishing email recognition.
     - Suggested potential directions for future research.
-  
+
+### Reference
+1. [機器學習分析垃圾&釣魚郵件標頭檔](https://github.com/kregg34/EmailHeaderAnomalyDetection/tree/797406a0bcf44a5d9840e72f3759061d1224f8de)
+2. [Learning OpenAI API](https://youtu.be/9AXP7tCI9PI)
+3. [OpenAI 專屬助理--網頁部分](https://youtu.be/jTNgTQLa528)
+4. [ChatGPT Writer](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/related)
+5. Detecting Phishing Sites Using ChatGPT-2023/06/09
+6. AnomalyDetectioninEmailsusingMachine LearningandHeaderInformation-2022/03/19
+7. Phishing by Form: The Abuse of Form Sites-2011/10/18 IEEE
+
 ### 一鍵搜索資料夾
 - Confusion Matrix：計算與挑選模糊矩陣的樣本
 - crawl：bug1只抓文字；bug2抓取整個html；craw以firefox引擎為模板；web抓取 html 並截圖已做後續OCR處理
