@@ -11,7 +11,7 @@
 6. AnomalyDetectioninEmailsusingMachine LearningandHeaderInformation-2022/03/19
 7. Phishing by Form: The Abuse of Form Sites-2011/10/18 IEEE
 
-### (2)	專題背景與目的
+### (2)	Backround
 - Motivation
 
     During the course, the combination of generative AI with fraud was mentioned, which proved to be quite an intriguing perspective. With this initial idea and data collection, we believed that we could focus on the topic of AI analyzing URLs for phishing website links. Phishing website links are commonly associated with cybersecurity breaches, appearing frequently in attacks through mediums such as emails and text messages. Despite their long history, they continue to be a persistent threat.
@@ -25,13 +25,14 @@
 另外，透過分析網站連結還有另外一個優點，
 釣魚郵件常見的目標都是企業，郵件本身涉及隱私，單純以提交 url 去分析是否為釣魚網站可以保護更好的保護隱私
 
-現有的釣魚網站資料庫，通常是透過人工提交，再一一審核，透過能尋找一個更迅速、即時的方式來做偵測， AI 的應用剛好可以符合需求。我們選擇的是CHAT-3.5-->
-- 尋找資料集
+現有的釣魚網站資料庫，通常是透過人工提交，再一一審核，透過能尋找一個更迅速、即時的方式來做偵測， AI 的應用剛好可以符合需求。我們選擇的是CHAT-3.5
+### (3)	Solutions
+- Database
     - ❌[資料集是.raff（attribute-relation file format）檔](https://archive.ics.uci.edu/dataset/327/phishing+websites)
     - ❓[資料集是phishtank，現在不能註冊](https://github.com/zerofox-oss/phishpond)
     - ❓[Monkey.org(Mbox)資料集較舊，新的打不開](https://monkey.org/~jose/phishing/)
     - ⭕[OpenPhish：資料及即時更新:)](https://openphish.com/)
-- 初步訓練
+- Initial training
   - Web Crawler<!--爬蟲抓取裡面的 URL 當作基準點(可能有多個 url)，爬取 URL 裡面的HTML ，再利用剛剛寫的簡化 HTML 轉成 .txt 黨傳給 chatGPT讀取裡面的內容，分析是否為釣魚。-->
   - Add OCR texts to simplified HTMLs 
   - Identify chatGPT with Prompt 
@@ -50,6 +51,6 @@
 - main：後端訓練
 - gpt-master：串接與網站 Demo
 
-### 遭遇問題與解方
+### Error
 - ![Alt text](image.png)
-  一直沒辦法使用 chatGPT 的機器人，後來跟可以使用的組員比對後發現缺少了一個 persist 資料夾
+一直沒辦法使用 chatGPT 的機器人，後來跟可以使用的組員比對後發現缺少了一個 persist 資料夾
